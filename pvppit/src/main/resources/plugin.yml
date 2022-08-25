@@ -1,0 +1,8 @@
+name: PVP-PIT
+#Always format the version like: x.x.x-DEV
+version: 1.0.0-DEV
+author: xxCoderforlife
+prefix: PVP-PIT
+load: POSTWORLD
+api-version: 1.13
+main: dev.nullpointercoding.Main
